@@ -1,0 +1,35 @@
+form{
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-family: tahoma;
+}
+
+.nome{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    text-align: left;
+}
+
+.email{
+    display: flex;
+    margin: 10px auto;
+    flex-direction: column;
+    text-align: left;
+}
+
+.senha{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    text-align: left;
+}
+
+input[type=submit]{
+    width: 200px;
+    padding: 5px 0;
+    margin: 10px auto;
+}

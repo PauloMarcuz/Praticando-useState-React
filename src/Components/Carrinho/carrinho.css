@@ -1,0 +1,19 @@
+.carrinhoDeCompras{
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+    font-family: tahoma;
+}
+
+.text{
+    font-size: 26px;
+    margin: 10px 0;
+}
+
+button{
+    width: 200px;
+    margin: 5px auto;
+    font-size: 16px;
+}
